@@ -19,3 +19,5 @@ git push
     d : delete
     r : rename
     c : conflix 
+    git checkout : đi đến lần commit nào đó , đi đến main / master
+    branch : nhánh  
